@@ -1,0 +1,15 @@
+﻿<project version="2.9" name="项目2" ID="F915F7DA-9628-4D42-8A23-74BFFA3BBFE0">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtPad" orientation="MoPortrait" mobileScreenScale="0" mobileType="mmtPad" pageSize="(768,1024)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" expanded="True" code="KVIIEJ1yWs" thumbCode="KVIIEJ1yWs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images/>
+</project>

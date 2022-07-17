@@ -1,0 +1,56 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="1024" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,0,0)">
+  <controls controlCount="1">
+    <control controlID="527A45B4-FEB5-41F8-9B0A-A00F8937B67E" controlTypeID="Button" x="298" y="239" w="268" h="192" zOrder="0">
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{0E003F78-C757-4E63-95B9-11A608F2B3CA}" coords="(0,0,268,192)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="527A45B4-FEB5-41F8-9B0A-A00F8937B67E" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Set Color" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="300" varType="4" description=""/>
+                    <param name="FromValue" value="4294967295" varType="20" description=""/>
+                    <param name="ToValue" value="4278242559" varType="20" description=""/>
+                  </command>
+                  <command name="Rotate" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="5" varType="20" description=""/>
+                    <param name="AniDuration" value="6000" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="RotateDirection" value="0" varType="3" description=""/>
+                    <param name="ValueMode" value="0" varType="3" description=""/>
+                    <param name="CenterMode" value="4" varType="3" description=""/>
+                    <param name="FromAngle" value="0" varType="3" description=""/>
+                    <param name="ToAngle" value="3600" varType="4" description=""/>
+                    <param name="RotateCenterX" value="0" varType="3" description=""/>
+                    <param name="RotateCenterY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%A1%AE%E5%AE%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
