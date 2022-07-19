@@ -1,10 +1,10 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="1024" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,0,0)">
-  <controls controlCount="10">
-    <control controlID="CEC274A8-D0DF-44FD-A03F-801B58A63617" controlTypeID="Tab" x="0" y="0" w="768" h="20" zOrder="0">
-      <color>4281545523</color>
+  <controls controlCount="11">
+    <control controlID="CEC274A8-D0DF-44FD-A03F-801B58A63617" controlTypeID="Tab" x="0" y="0" w="768" h="45" zOrder="0">
+      <color>4288256409</color>
       <interactiveData>
         <entry title="%E6%89%AB%E9%9B%B7">
-          <area shape="0" alt="" ID="{5B78AB2D-8BF3-4A23-8668-FB9D937133E1}" coords="(0,0,43,18)"/>
+          <area shape="0" alt="" ID="{5B78AB2D-8BF3-4A23-8668-FB9D937133E1}" coords="(0,0,65,44)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -24,7 +24,7 @@
           </events>
         </entry>
         <entry title="LIVE-LONGER">
-          <area shape="0" alt="" ID="{1A13A8E2-2807-455C-9BFD-452448BFB9A3}" coords="(42,0,150,18)"/>
+          <area shape="0" alt="" ID="{1A13A8E2-2807-455C-9BFD-452448BFB9A3}" coords="(55,0,212,44)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -44,7 +44,7 @@
           </events>
         </entry>
         <entry title="PVZ-WEB">
-          <area shape="0" alt="" ID="{EBC9632A-3D43-42D9-9AA9-F336D348CE64}" coords="(149,0,228,18)"/>
+          <area shape="0" alt="" ID="{EBC9632A-3D43-42D9-9AA9-F336D348CE64}" coords="(202,0,318,44)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -64,7 +64,7 @@
           </events>
         </entry>
         <entry title="JNG%E9%9F%B3%E4%B9%90%E7%99%BD%E5%AB%96%E8%BD%AF%E4%BB%B6">
-          <area shape="0" alt="" ID="{1FBC0FE6-CEA3-47EB-BCFD-7B1093E4848E}" coords="(227,0,354,18)"/>
+          <area shape="0" alt="" ID="{1FBC0FE6-CEA3-47EB-BCFD-7B1093E4848E}" coords="(308,0,493,44)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -86,17 +86,21 @@
       </interactiveData>
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E6%89%AB%E9%9B%B7%2CLIVE-LONGER%2CPVZ-WEB%2CJNG%E9%9F%B3%E4%B9%90%E7%99%BD%E5%AB%96%E8%BD%AF%E4%BB%B6</text>
-      <textColor>2248146943</textColor>
-      <textSize>14</textSize>
+      <textColor>4291611852</textColor>
+      <textSize>20</textSize>
       <lineSpacing>0</lineSpacing>
-      <selectedColor>4281545523</selectedColor>
-      <tabColor>1073741824</tabColor>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4288256409</selectedColor>
+      <tabStyle>csLean</tabStyle>
+      <radius>22</radius>
+      <tabColor>4281545523</tabColor>
+      <tabHeight>44</tabHeight>
       <selectedTextColor>4294967295</selectedTextColor>
     </control>
-    <control controlID="137888E7-63DB-4873-BBC2-D9EC46BBB5C3" controlTypeID="ContentPanel" x="0" y="30" w="768" h="994" zOrder="1">
+    <control controlID="137888E7-63DB-4873-BBC2-D9EC46BBB5C3" controlTypeID="ContentPanel" x="0" y="91" w="768" h="933" zOrder="1">
       <color>4281545523</color>
       <groupChildrenDescriptors>
-        <control controlID="FBE1EC93-8F34-469B-A04C-5084D656C879" controlTypeID="ScrollArea" x="0" y="0" w="768" h="994" zOrder="0">
+        <control controlID="FBE1EC93-8F34-469B-A04C-5084D656C879" controlTypeID="ScrollArea" x="0" y="0" w="768" h="933" zOrder="0">
           <caption>sl</caption>
           <color>4281545523</color>
           <canMove>False</canMove>
@@ -113,7 +117,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="204108FF-C333-4C79-9D23-61512F2F72EE" controlTypeID="ScrollArea" x="0" y="0" w="768" h="994" zOrder="1">
+        <control controlID="204108FF-C333-4C79-9D23-61512F2F72EE" controlTypeID="ScrollArea" x="0" y="0" w="768" h="933" zOrder="1">
           <caption>livelonger</caption>
           <color>4281545523</color>
           <canMove>False</canMove>
@@ -130,7 +134,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="09D92B29-A148-4CB3-8B99-2C42B456FC4A" controlTypeID="ScrollArea" x="0" y="0" w="768" h="994" zOrder="2">
+        <control controlID="09D92B29-A148-4CB3-8B99-2C42B456FC4A" controlTypeID="ScrollArea" x="0" y="0" w="768" h="933" zOrder="2">
           <caption>pvzweb</caption>
           <color>4281545523</color>
           <canMove>False</canMove>
@@ -147,7 +151,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="0F0028EE-9E9E-4953-8233-9521E688C1E1" controlTypeID="ScrollArea" x="0" y="0" w="768" h="994" zOrder="3">
+        <control controlID="0F0028EE-9E9E-4953-8233-9521E688C1E1" controlTypeID="ScrollArea" x="0" y="0" w="768" h="933" zOrder="3">
           <caption>jng%E9%9F%B3%E4%B9%90</caption>
           <color>4281545523</color>
           <canMove>False</canMove>
@@ -166,6 +170,51 @@
         </control>
       </groupChildrenDescriptors>
       <aniType>spaFade</aniType>
+    </control>
+    <control controlID="870DB5C3-2903-44BE-A0D7-2BBF127014F7" controlTypeID="Button" x="0" y="45" w="768" h="46" zOrder="2">
+      <color>4281545523</color>
+      <borderVisible>False</borderVisible>
+      <externalURL>https%3A%2F%2Frespeed.chromiumer.com%2F</externalURL>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{14D3C6AC-5281-4C11-B8C3-BD467A70850F}" coords="(0,0,768,46)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="870DB5C3-2903-44BE-A0D7-2BBF127014F7" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Scale" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="4" varType="20" description=""/>
+                    <param name="AniDuration" value="800" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="True" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ScaleDirection" value="0" varType="3" description=""/>
+                    <param name="ValueMode" value="0" varType="3" description=""/>
+                    <param name="FromScaleX" value="1" varType="3" description=""/>
+                    <param name="FromScaleY" value="1" varType="3" description=""/>
+                    <param name="ToScaleX" value="1.5" varType="4" description=""/>
+                    <param name="ToScaleY" value="1.5" varType="4" description=""/>
+                    <param name="ToX" value="0" varType="3" description=""/>
+                    <param name="ToY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8B%E8%BD%BD%E6%85%A2%EF%BC%9F%E7%82%B9%E6%88%91%E5%A4%96%E7%BD%91%E5%8A%A0%E9%80%9F%E4%B8%8B%E8%BD%BD%EF%BC%81%EF%BC%81</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
     </control>
   </controls>
   <param>
