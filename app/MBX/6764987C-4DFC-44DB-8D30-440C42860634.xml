@@ -15,7 +15,7 @@
     <control controlID="30E16BBD-BEC3-40F5-95F7-AE5E22B20F97" controlTypeID="Button" x="86" y="10" w="120" h="48" zOrder="2">
       <color>4284900966</color>
       <borderVisible>False</borderVisible>
-      <externalURL>http%3A%2F%2Fsl.rar</externalURL>
+      <externalURL>https%3A%2F%2Fjienigui06.github.io%2Ftttest%2Fsl.rar</externalURL>
       <interactiveData>
         <entry title="">
           <area shape="0" alt="" ID="{4787A3DF-2F86-4E69-BEBC-97D45991AE7C}" coords="(0,0,120,48)"/>
@@ -100,7 +100,7 @@
       <radius>100</radius>
       <radiusIsPercent>True</radiusIsPercent>
     </control>
-    <control controlID="53E9393D-C897-4DB6-A6EA-5F19642F2520" controlTypeID="Label" x="102" y="465" w="100" h="27" zOrder="4">
+    <control controlID="53E9393D-C897-4DB6-A6EA-5F19642F2520" controlTypeID="Label" x="102" y="465" w="99" h="27" zOrder="4">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E7%AE%80%E7%BA%A6%E7%9A%84%E5%8A%A8%E7%94%BB</text>
       <textColor>4294967295</textColor>

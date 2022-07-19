@@ -4,7 +4,7 @@
       <color>4281545523</color>
       <interactiveData>
         <entry title="%E6%89%AB%E9%9B%B7">
-          <area shape="0" alt="" ID="{5B78AB2D-8BF3-4A23-8668-FB9D937133E1}" coords="(0,0,44,18)"/>
+          <area shape="0" alt="" ID="{5B78AB2D-8BF3-4A23-8668-FB9D937133E1}" coords="(0,0,43,18)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -24,7 +24,7 @@
           </events>
         </entry>
         <entry title="LIVE-LONGER">
-          <area shape="0" alt="" ID="{1A13A8E2-2807-455C-9BFD-452448BFB9A3}" coords="(43,0,151,18)"/>
+          <area shape="0" alt="" ID="{1A13A8E2-2807-455C-9BFD-452448BFB9A3}" coords="(42,0,150,18)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -44,7 +44,7 @@
           </events>
         </entry>
         <entry title="PVZ-WEB">
-          <area shape="0" alt="" ID="{EBC9632A-3D43-42D9-9AA9-F336D348CE64}" coords="(150,0,229,18)"/>
+          <area shape="0" alt="" ID="{EBC9632A-3D43-42D9-9AA9-F336D348CE64}" coords="(149,0,228,18)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -64,7 +64,7 @@
           </events>
         </entry>
         <entry title="JNG%E9%9F%B3%E4%B9%90%E7%99%BD%E5%AB%96%E8%BD%AF%E4%BB%B6">
-          <area shape="0" alt="" ID="{1FBC0FE6-CEA3-47EB-BCFD-7B1093E4848E}" coords="(228,0,355,18)"/>
+          <area shape="0" alt="" ID="{1FBC0FE6-CEA3-47EB-BCFD-7B1093E4848E}" coords="(227,0,354,18)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">

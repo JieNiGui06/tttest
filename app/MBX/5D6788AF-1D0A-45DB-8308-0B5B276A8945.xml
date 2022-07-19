@@ -3,7 +3,7 @@
     <control controlID="511B9BCF-E662-4AE6-9F06-62D2394D91C2" controlTypeID="Button" x="86" y="10" w="120" h="48" zOrder="0">
       <color>4284900966</color>
       <borderVisible>False</borderVisible>
-      <externalURL>http%3A%2F%2Fjngyy.rar%2F</externalURL>
+      <externalURL>https%3A%2F%2Fjienigui06.github.io%2Ftttest%2Fjngyy.rar</externalURL>
       <interactiveData>
         <entry title="">
           <area shape="0" alt="" ID="{4787A3DF-2F86-4E69-BEBC-97D45991AE7C}" coords="(0,0,120,48)"/>
@@ -100,7 +100,7 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="E7C14C24-CA03-45D0-9870-C815354425B0" controlTypeID="Label" x="102" y="468" w="273" h="27" zOrder="4">
+    <control controlID="E7C14C24-CA03-45D0-9870-C815354425B0" controlTypeID="Label" x="102" y="468" w="272" h="27" zOrder="4">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E9%9F%B3%E4%B9%90%E5%BC%95%E6%93%8E%EF%BC%9A%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%92%8CQQ%E9%9F%B3%E4%B9%90</text>
       <textColor>4294967295</textColor>
