@@ -1,0 +1,140 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6764987C-4DFC-44DB-8D30-440C42860634" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="2682" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,768,2682)">
+  <controls controlCount="10">
+    <control controlID="0E5BE3D7-9E3D-42B9-8144-554CD3BE95E3" controlTypeID="Image" x="86" y="126" w="595" h="316" zOrder="0">
+      <URL>97E60550FC59DE439AD2C74D631EE323.png</URL>
+    </control>
+    <control controlID="6221DE12-8E5A-4DD0-BF2A-4CE535283C55" controlTypeID="Label" x="102" y="75" w="120" h="27" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E8%AE%BE%E8%AE%A1</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="30E16BBD-BEC3-40F5-95F7-AE5E22B20F97" controlTypeID="Button" x="86" y="10" w="120" h="48" zOrder="2">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <externalURL>http%3A%2F%2Fsl.rar</externalURL>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{4787A3DF-2F86-4E69-BEBC-97D45991AE7C}" coords="(0,0,120,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="30E16BBD-BEC3-40F5-95F7-AE5E22B20F97" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Rotate" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="5" varType="20" description=""/>
+                    <param name="AniDuration" value="800" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="True" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="RotateDirection" value="0" varType="3" description=""/>
+                    <param name="ValueMode" value="0" varType="3" description=""/>
+                    <param name="CenterMode" value="4" varType="3" description=""/>
+                    <param name="FromAngle" value="0" varType="3" description=""/>
+                    <param name="ToAngle" value="180" varType="4" description=""/>
+                    <param name="RotateCenterX" value="0" varType="3" description=""/>
+                    <param name="RotateCenterY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8B%E8%BD%BD(exe)</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="BE4F9C75-6031-4F3C-AEA2-CDF8EE1476D7" controlTypeID="Button" x="232" y="10" w="120" h="48" zOrder="3">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <externalURL>https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1jT41157PK%3Fshare_source%3Dcopy_web%26vd_source%3D5ec69ab62fe26c3d265d46059d9cfa13</externalURL>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{CFC87CBF-032D-4C8E-B77A-FE576D3B5C9A}" coords="(0,0,120,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="BE4F9C75-6031-4F3C-AEA2-CDF8EE1476D7" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Rotate" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="4" varType="20" description=""/>
+                    <param name="AniDuration" value="800" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="True" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="RotateDirection" value="0" varType="3" description=""/>
+                    <param name="ValueMode" value="0" varType="3" description=""/>
+                    <param name="CenterMode" value="4" varType="3" description=""/>
+                    <param name="FromAngle" value="0" varType="3" description=""/>
+                    <param name="ToAngle" value="180" varType="4" description=""/>
+                    <param name="RotateCenterX" value="0" varType="3" description=""/>
+                    <param name="RotateCenterY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="53E9393D-C897-4DB6-A6EA-5F19642F2520" controlTypeID="Label" x="102" y="465" w="100" h="27" zOrder="4">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%AE%80%E7%BA%A6%E7%9A%84%E5%8A%A8%E7%94%BB</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F0BACA50-8235-4CBE-A520-293B6179644C" controlTypeID="Gif" x="86" y="517" w="595" h="492" zOrder="5">
+      <URL>AFCD100DE6E5A86B5560D8AC10B7554C.gif</URL>
+    </control>
+    <control controlID="87CFCB67-E19C-4A38-A407-5151C387C462" controlTypeID="Label" x="102" y="1047" w="220" h="27" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%96%87%E5%AD%97%E6%9B%BF%E4%BB%A3%E5%9B%BE%E7%89%87</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="93AD5F53-1E26-4ED8-BDDB-0B1144EB5E97" controlTypeID="Image" x="166" y="1121" w="437" h="490" zOrder="7">
+      <URL>C231F4CCFD29F1FBAFB0D44DC7ADF53F.png</URL>
+    </control>
+    <control controlID="C075B9E4-EC29-4351-9695-EC4B326547BF" controlTypeID="Image" x="166" y="1611" w="437" h="490" zOrder="8">
+      <URL>9F7D57566571B12884701226C841F24C.png</URL>
+    </control>
+    <control controlID="48A1F21C-4D33-41C7-8774-42E144840157" controlTypeID="Image" x="166" y="2101" w="437" h="490" zOrder="9">
+      <URL>166F902374E26264DD5DDEE9C563B029.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281545523</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

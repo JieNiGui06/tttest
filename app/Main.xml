@@ -1,15 +1,49 @@
-﻿<project version="2.9" name="项目2" ID="F915F7DA-9628-4D42-8A23-74BFFA3BBFE0">
+﻿<project version="2.9" name="JNG游戏官网" ID="F915F7DA-9628-4D42-8A23-74BFFA3BBFE0">
   <params>
     <pageParam version="5.3" minAllowVersion="5.3"/>
-    <projectParam version="2.9" minAllowVersion="2.9" platform="MtPad" orientation="MoPortrait" mobileScreenScale="0" mobileType="mmtPad" pageSize="(768,1024)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtPad" orientation="MoPortrait" mobileScreenScale="0" mobileType="mmtPad" pageSize="(768,1024)" backgroundColor="4281545523" fontSize="14" fontFamily="微软雅黑" projectType="ptPersonalProject" isShowTitleIndex="False"/>
     <previewParam version="1.0"/>
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="首页" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" expanded="True" code="KVIIEJ1yWs" thumbCode="KVIIEJ1yWs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="首页" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" expanded="True" code="7MVi4bZGm9" thumbCode="7MVi4bZGm9" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <page name="livelonger" ID="E225EAE7-4CE9-4151-86BC-54AF8AAD4A4D" expanded="True" code="CwLKga9aWz" thumbCode="CwLKga9aWz" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="sl" ID="6764987C-4DFC-44DB-8D30-440C42860634" expanded="True" code="DASh5boNFr" thumbCode="r8OBYQ8XRp" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="166F902374E26264DD5DDEE9C563B029.png"/>
+          <image key="97E60550FC59DE439AD2C74D631EE323.png"/>
+          <image key="9F7D57566571B12884701226C841F24C.png"/>
+          <image key="AFCD100DE6E5A86B5560D8AC10B7554C.gif"/>
+          <image key="C231F4CCFD29F1FBAFB0D44DC7ADF53F.png"/>
+        </images>
+      </page>
+      <page name="pvzweb" ID="31CA5537-0C42-4EFE-9982-9BB924567246" expanded="True" code="5sQesBssdF" thumbCode="5sQesBssdF" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="jng音乐" ID="5D6788AF-1D0A-45DB-8308-0B5B276A8945" expanded="True" code="Ke76C1Ad6H" thumbCode="3cCaGf6LAh" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="2B276796579594B765EDA58E49EE0B83.png"/>
+          <image key="8E07741ED251F8AF8942F44A89C8BB8C.gif"/>
+          <image key="14F29DD2BD4C1E2B48F828F07C6EB0B3.png"/>
+          <image key="67311BC4BD57312645583083671A24E7.png"/>
+          <image key="89CDD4B6EF9E5536F77744A9D7DB910E.gif"/>
+        </images>
+      </page>
+    </page>
   </pages>
-  <trash/>
+  <trash>
+    <page name="页面" ID="780C01EA-D732-41D3-B4A2-861422123D59" expanded="False" code="pNzvQHisQm" thumbCode="ADKhYEr7jy" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
   <deletes/>
   <masters/>
-  <images/>
+  <images>
+    <image key="2B276796579594B765EDA58E49EE0B83.png"/>
+    <image key="9F7D57566571B12884701226C841F24C.png"/>
+    <image key="14F29DD2BD4C1E2B48F828F07C6EB0B3.png"/>
+    <image key="AFCD100DE6E5A86B5560D8AC10B7554C.gif"/>
+    <image key="8E07741ED251F8AF8942F44A89C8BB8C.gif"/>
+    <image key="C231F4CCFD29F1FBAFB0D44DC7ADF53F.png"/>
+    <image key="166F902374E26264DD5DDEE9C563B029.png"/>
+    <image key="97E60550FC59DE439AD2C74D631EE323.png"/>
+    <image key="89CDD4B6EF9E5536F77744A9D7DB910E.gif"/>
+    <image key="67311BC4BD57312645583083671A24E7.png"/>
+  </images>
 </project>

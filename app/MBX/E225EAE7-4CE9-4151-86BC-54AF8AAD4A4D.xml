@@ -1,0 +1,23 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E225EAE7-4CE9-4151-86BC-54AF8AAD4A4D" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="1024" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,0,0)">
+  <controls controlCount="1">
+    <control controlID="7F4619D4-57A2-40A0-A6E7-64100D024047" controlTypeID="Button" x="324" y="90" w="120" h="48" zOrder="0">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%BC%80%E5%8F%91%E4%B8%AD</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4281545523</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
