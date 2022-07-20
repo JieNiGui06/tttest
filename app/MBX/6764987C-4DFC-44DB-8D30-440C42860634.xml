@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="6764987C-4DFC-44DB-8D30-440C42860634" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="2682" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,768,2682)">
-  <controls controlCount="10">
+  <controls controlCount="11">
     <control controlID="0E5BE3D7-9E3D-42B9-8144-554CD3BE95E3" controlTypeID="Image" x="86" y="126" w="595" h="316" zOrder="0">
       <URL>97E60550FC59DE439AD2C74D631EE323.png</URL>
     </control>
@@ -129,6 +129,12 @@
     </control>
     <control controlID="48A1F21C-4D33-41C7-8774-42E144840157" controlTypeID="Image" x="166" y="2101" w="437" h="490" zOrder="9">
       <URL>166F902374E26264DD5DDEE9C563B029.png</URL>
+    </control>
+    <control controlID="57956C78-1B3C-491B-A9AF-E7E76B41D5B2" controlTypeID="Label" x="376" y="24" w="258" h="19" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>https%3A%2F%2Fjienigui06.github.io%2Ftttest%2Fsl.rar</text>
+      <textColor>4291611852</textColor>
+      <lineSpacing>0</lineSpacing>
     </control>
   </controls>
   <param>

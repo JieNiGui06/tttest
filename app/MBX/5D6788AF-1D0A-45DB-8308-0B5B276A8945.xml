@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="5D6788AF-1D0A-45DB-8308-0B5B276A8945" platform="MtPad" defaultW="768" defaultH="1024" measureW="768" measureH="2019" screenOrientation="MoPortrait" mobileScreenScale="0" clipArea="(0,0,768,2019)">
-  <controls controlCount="10">
+  <controls controlCount="11">
     <control controlID="511B9BCF-E662-4AE6-9F06-62D2394D91C2" controlTypeID="Button" x="86" y="10" w="120" h="48" zOrder="0">
       <color>4284900966</color>
       <borderVisible>False</borderVisible>
@@ -129,6 +129,13 @@
     </control>
     <control controlID="7D598799-B20F-4C1D-98B9-19D8C1B676C6" controlTypeID="Gif" x="88" y="1552" w="595" h="316" zOrder="9">
       <URL>89CDD4B6EF9E5536F77744A9D7DB910E.gif</URL>
+    </control>
+    <control controlID="4021F925-5F55-434B-9AE2-945DD0CC5012" controlTypeID="Label" x="376" y="24" w="284" h="19" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>https%3A%2F%2Fjienigui06.github.io%2Ftttest%2Fjngyy.rar</text>
+      <textColor>4291611852</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
     </control>
   </controls>
   <param>

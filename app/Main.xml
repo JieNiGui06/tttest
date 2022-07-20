@@ -6,9 +6,9 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="首页" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" expanded="True" code="p7NO3ERmYn" thumbCode="OrjcjwlpRG" status="psWhite" isfolder="False" isshownode="True">
+    <page name="首页" ID="66622D3B-A39D-41EB-848A-A4CB5DE70452" expanded="True" code="p7NO3ERmYn" thumbCode="p7NO3ERmYn" status="psWhite" isfolder="False" isshownode="True">
       <page name="livelonger" ID="E225EAE7-4CE9-4151-86BC-54AF8AAD4A4D" expanded="False" code="b7UrWn2THc" thumbCode="CwLKga9aWz" status="psWhite" isfolder="False" isshownode="True"/>
-      <page name="sl" ID="6764987C-4DFC-44DB-8D30-440C42860634" expanded="False" code="iROtwUYfRL" thumbCode="3izyCA4BQn" status="psWhite" isfolder="False" isshownode="True">
+      <page name="sl" ID="6764987C-4DFC-44DB-8D30-440C42860634" expanded="False" code="wvUSZiMxQr" thumbCode="wvUSZiMxQr" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="166F902374E26264DD5DDEE9C563B029.png"/>
           <image key="97E60550FC59DE439AD2C74D631EE323.png"/>
@@ -18,7 +18,7 @@
         </images>
       </page>
       <page name="pvzweb" ID="31CA5537-0C42-4EFE-9982-9BB924567246" expanded="False" code="s4Aq3XZjnD" thumbCode="5sQesBssdF" status="psWhite" isfolder="False" isshownode="True"/>
-      <page name="jng音乐" ID="5D6788AF-1D0A-45DB-8308-0B5B276A8945" expanded="False" code="PQbOoMDpgF" thumbCode="PQbOoMDpgF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <page name="jng音乐" ID="5D6788AF-1D0A-45DB-8308-0B5B276A8945" expanded="False" code="rSDGN4EJsP" thumbCode="PQbOoMDpgF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="2B276796579594B765EDA58E49EE0B83.png"/>
           <image key="8E07741ED251F8AF8942F44A89C8BB8C.gif"/>
